@@ -33,11 +33,10 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/> 
 </p>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=himanshu6124&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu6124&&hide_border=false&&show_icons=true"/>|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu6124&layout=compact" height ="250"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu6124&&hide_border=false&&show_icons=true" height ="250"/>|
 |---|---|
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu6124&layout=compact"/>
+
 
 <!--
 **Himanshu6124/himanshu6124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
